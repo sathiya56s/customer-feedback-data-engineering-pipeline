@@ -1,0 +1,5 @@
+chat_id,customer_id,chat_text,emotion
+1,101,"Waiting time was too high","negative"
+2,102,"Agent resolved my issue quickly","positive"
+3,104,"Not helpful, had to call again","negative"
+4,105,"Appreciate the guidance","positive"
