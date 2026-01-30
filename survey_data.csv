@@ -1,0 +1,6 @@
+customer_id,feedback_text,rating,nps_score
+101,"Service was slow",2,0
+102,"Great support experience",5,10
+103,"Average service",3,7
+104,"Response took too long",2,3
+105,"Excellent customer care",5,10
